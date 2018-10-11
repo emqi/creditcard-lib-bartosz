@@ -3,7 +3,7 @@ class CreditCard {
     public void assignLImit(double money){
         
     }
-    pyblic double detLimit(){
+    public double detLimit(){
         return 2000;
     }
 }
