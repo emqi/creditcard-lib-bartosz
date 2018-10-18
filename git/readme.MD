@@ -6,4 +6,5 @@ git remote add origin https://github.com/leksval/git_task.git - dodaje zdalne re
 git push -u origin master puszuje nasze commity na mastera 
 git status pozwala sprawdzenia statusu plików 
 git config zmienia np autora commitow 
+koniec
 
